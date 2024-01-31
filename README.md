@@ -42,10 +42,15 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 
 # Key Learnings & Skills:
 1.Functional Knowledge: Sales and Finance domain expertise
+
 2.ETL Knowledge: Mastered data extract, transformation and loading techniques with Power Query
+
 3.Data Cleaning: Gained extensive knowledge in data cleaning with Power Query
+
 4.Data Modeling: Created data models using Power Pivot
+
 5.DAX Measures: Created KPIs/customized measures by utilizing DAX in Power Pivot
+
 6.User Empathy: Designed user-centric reports
 
 *Role of reports*: Align financial planning with strategic goals Instill confidence in the organization's financial outlook
